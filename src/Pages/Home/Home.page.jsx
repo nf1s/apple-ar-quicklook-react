@@ -9,7 +9,7 @@ const books = [
         subheader: 'by Steve McConnell',
         cover: 'https://images.gr-assets.com/books/1396837641l/4845.jpg',
         stars: 4,
-        url: "https://www.goodreads.com/book/show/4845.Code_Complete"
+        url: "src/Assets/AirForce.usdz",
     },
     {
         title: 'Clean Code',
@@ -31,7 +31,7 @@ const books = [
 function Books() {
     return (
         <div>
-            <Grid container spacing={24}>
+            <Grid  sx={{ flexGrow: 1 }} container spacing={24}>
                 <Grid item xs={12}>
                     <div>
                         <h1>My Favorite Items</h1>
@@ -41,7 +41,7 @@ function Books() {
                     return <Slide direction="left" in={true} key={index}
                         style={{ transitionDelay: index * 50 }}
                         mountOnEnter unmountOnExit>
-                        <Grid item xs={4}>
+                        <Grid item xs={12}>
                             <ImageCard card={book} index={index} />
                         </Grid>
                     </Slide>

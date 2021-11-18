@@ -14,23 +14,17 @@ function ImageCard(props) {
     <Card sx={{ maxWidth: 345 }}>
       <CardHeader
         avatar={
-          <a href={card.url}>
             <Avatar aria-label={card.title}>
               <FaBook />
             </Avatar>
-          </a>
         }
         title={card.title}
         subheader={card.subheader}
       />
-      <CardMedia
-        component="img"
-        height="140"
-        image={card.cover}
-        title={card.title}
-      />
       <CardContent>
-        <p>bla</p>
+        <a rel="ar" href={card.url}>
+          <img src={card.cover} alt="bla"/>
+          </a>
       </CardContent>
     </Card>
   );
