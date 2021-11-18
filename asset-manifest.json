@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/apple-ar-quicklook-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/apple-ar-quicklook-react/static/js/main.fa89b2c7.chunk.js",
+    "main.js.map": "/apple-ar-quicklook-react/static/js/main.fa89b2c7.chunk.js.map",
+    "runtime-main.js": "/apple-ar-quicklook-react/static/js/runtime-main.cba81289.js",
+    "runtime-main.js.map": "/apple-ar-quicklook-react/static/js/runtime-main.cba81289.js.map",
+    "static/js/2.0410f6b0.chunk.js": "/apple-ar-quicklook-react/static/js/2.0410f6b0.chunk.js",
+    "static/js/2.0410f6b0.chunk.js.map": "/apple-ar-quicklook-react/static/js/2.0410f6b0.chunk.js.map",
+    "static/js/3.94f542ab.chunk.js": "/apple-ar-quicklook-react/static/js/3.94f542ab.chunk.js",
+    "static/js/3.94f542ab.chunk.js.map": "/apple-ar-quicklook-react/static/js/3.94f542ab.chunk.js.map",
+    "index.html": "/apple-ar-quicklook-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/apple-ar-quicklook-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0410f6b0.chunk.js.LICENSE.txt": "/apple-ar-quicklook-react/static/js/2.0410f6b0.chunk.js.LICENSE.txt",
+    "static/media/FruitCake.ee545dec.png": "/apple-ar-quicklook-react/static/media/FruitCake.ee545dec.png",
+    "static/media/LemonPie.7a44f843.png": "/apple-ar-quicklook-react/static/media/LemonPie.7a44f843.png",
+    "static/media/NikeAirForceOne.985d56fd.png": "/apple-ar-quicklook-react/static/media/NikeAirForceOne.985d56fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba81289.js",
+    "static/js/2.0410f6b0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fa89b2c7.chunk.js"
+  ]
+}
