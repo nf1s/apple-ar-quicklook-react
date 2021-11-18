@@ -10,7 +10,7 @@ function ImageCard(props) {
   const { card } = props;
 
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 400 }}>
       <CardHeader
         avatar={
             <Avatar aria-label={card.title}>
@@ -18,11 +18,10 @@ function ImageCard(props) {
             </Avatar>
         }
         title={card.title}
-        subheader={card.subheader}
       />
       <CardContent>
         <a rel="ar" href={card.url}>
-          <img src={card.cover} alt="bla"/>
+          <img src={card.cover} alt="bla" width="400"/>
           </a>
       </CardContent>
     </Card>
