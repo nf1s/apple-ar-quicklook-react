@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/apple-ar-quicklook-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/apple-ar-quicklook-react/static/js/main.fa89b2c7.chunk.js",
-    "main.js.map": "/apple-ar-quicklook-react/static/js/main.fa89b2c7.chunk.js.map",
+    "main.js": "/apple-ar-quicklook-react/static/js/main.db85b74c.chunk.js",
+    "main.js.map": "/apple-ar-quicklook-react/static/js/main.db85b74c.chunk.js.map",
     "runtime-main.js": "/apple-ar-quicklook-react/static/js/runtime-main.cba81289.js",
     "runtime-main.js.map": "/apple-ar-quicklook-react/static/js/runtime-main.cba81289.js.map",
     "static/js/2.0410f6b0.chunk.js": "/apple-ar-quicklook-react/static/js/2.0410f6b0.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.cba81289.js",
     "static/js/2.0410f6b0.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.fa89b2c7.chunk.js"
+    "static/js/main.db85b74c.chunk.js"
   ]
 }
