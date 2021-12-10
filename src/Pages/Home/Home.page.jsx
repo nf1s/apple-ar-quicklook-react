@@ -5,6 +5,7 @@ import ImageCard from '../../Components/ImageCard/ImageCard.component'
 import NikeAirForceOne from '../../Assets/NikeAirForceOne.png'
 import FruitCake from '../../Assets/FruitCake.png'
 import LemonPie from '../../Assets/LemonPie.png'
+import QrCode from '../../Assets/QrCode.png'
 
 const items = [
     {
@@ -31,7 +32,10 @@ function Items() {
             <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
                 <Grid item xs={12}>
                     <div>
-                        <h1>My Favorite Items</h1>
+                        <h1>Scan here, only works with Ios and Safari</h1>
+                    </div>
+                    <div>
+                        <img src={QrCode}></img>
                     </div>
                 </Grid>
                 {items.map((item, index) => {
